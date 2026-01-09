@@ -1,4 +1,4 @@
-//Stack implementation using Array 
+//Stack implementation using Array
 
 #include <stdio.h>
 
