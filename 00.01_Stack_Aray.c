@@ -7,7 +7,7 @@
 int stack[SIZE];
 int top = -1;
 
-//Function prototypes
+//Function prototypes 
 
 int isFull();
 int isEmpty();
